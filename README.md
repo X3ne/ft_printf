@@ -4,6 +4,8 @@
 
 > For the students of 42: Do not copy the code! Always make sure you understand what you are doing
 
+**Some parts can be greatly improved. The project is still functional**
+
 ### Project Stats
 | **Status** | **Evaluation** |
 | --- | --- |
